@@ -163,7 +163,7 @@ class Todo {
       tasklist.removeAt(index);
       print("Task deleted successfully.");
     } else {
-      print("Invalid index!");
+      print("Invalid");
     }
   }
 
